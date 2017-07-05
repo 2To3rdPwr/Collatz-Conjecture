@@ -1,0 +1,1 @@
+This is a project I created for my discrete structures class. Two programs are contained. CollatsConjecture allows the user in input any valid integer and generates the hailstone sequence for that number. CollatsConjectureBruteForce recursively checks that the collatz conjecture is true for all valid integer values in the java language.
